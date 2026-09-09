@@ -8,5 +8,7 @@ curl -fsSL https://raw.githubusercontent.com/Koustubha-naik/Random-scripts/refs/
 echo 'source ~/.target-manager.zsh' >> ~/.zshrc
 source ~/.zshrc
 ```
+**Commands:** `set-target IP 10.10.10.10` · `target` · `untarget all`
+
 ---
 
